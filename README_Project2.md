@@ -54,8 +54,7 @@ In this project, we configure an Azure Storage Account with enhanced security an
   - **Assign to:** your user
 - Click **Save**
 
-📸 *Screenshot: Role assignment screen*
-
+![Image alt](https://github.com/vasiliykop/Azure-Storage-Security/blob/a91ab5fe5078081345f6a2020ebf20e95eb21e6c/RBAC.png)
 ---
 
 ### 4. Generate Shared Access Signature (SAS)
