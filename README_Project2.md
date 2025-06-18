@@ -31,8 +31,7 @@ In this project, we configure an Azure Storage Account with enhanced security an
   - **Access tier:** Hot
 - Click **Review + Create**, then **Create**.
 
-📸 *Screenshot: Storage account overview after deployment*
-
+![Image alt](https://github.com/vasiliykop/Azure-Storage-Security/blob/fc4299bcbfca4538d2927db2aa721dd0392497af/storage-account-overview.png)
 ---
 
 ### 2. Configure Backup (Optional)
