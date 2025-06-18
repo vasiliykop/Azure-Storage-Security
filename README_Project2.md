@@ -66,7 +66,7 @@ In this project, we configure an Azure Storage Account with enhanced security an
   - Set expiration to 1 day
 - Click **Generate SAS token and URL**
 
-📸 *Screenshot: SAS token screen*
+![Image alt](https://github.com/vasiliykop/Azure-Storage-Security/blob/d260c46327d00d5ab313db908b4bb157963fa490/sas.png)
 
 ---
 
