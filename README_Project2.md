@@ -92,42 +92,10 @@ In this project, we configure an Azure Storage Account with enhanced security an
 
 📸 *Screenshot: Private endpoint configuration*
 
----
 
-## 📸 Suggested Screenshot Locations
 
-- Storage Account Overview
-- Role Assignment (IAM)
-- Backup Policy Overview
-- SAS Token Configuration
-- Lifecycle Rule Editor
-- Private Endpoint Setup
 
----
 
-## 📂 Folder Structure Suggestion
 
-```
-project2/
-├── screenshots/
-│   ├── storage_account.png
-│   ├── rbac_assignment.png
-│   ├── lifecycle_rule.png
-│   └── sas_token.png
-└── README.md
-```
 
----
 
-## 💡 Tips
-
-- Use least privilege when assigning roles
-- Always set expiration for SAS tokens
-- Monitor lifecycle rules to save on storage costs
-
----
-
-## 🧪 Test Your Configuration
-
-- Try uploading a blob and verify if it's eligible for lifecycle movement.
-- Access blob with SAS URL to confirm permissions.
