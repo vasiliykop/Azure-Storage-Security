@@ -78,7 +78,7 @@ In this project, we configure an Azure Storage Account with enhanced security an
   - **Action:** Move to Cool Storage
 - Save the rule.
 
-📸 *Screenshot: Lifecycle rule configuration*
+![Image alt](https://github.com/vasiliykop/Azure-Storage-Security/blob/9a670361e580bf9c5ad29371b31b20511807c723/lifecycle-management.png)
 
 ---
 
