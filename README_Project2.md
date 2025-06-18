@@ -88,7 +88,7 @@ In this project, we configure an Azure Storage Account with enhanced security an
   - **Target sub-resource:** blob
   - **Assign to existing VNet and subnet**
 
-📸 *Screenshot: Private endpoint configuration*
+![Image alt](https://github.com/vasiliykop/Azure-Storage-Security/blob/e396f005e17cece7cf316b909a63a92f952949e8/PE%20CONFIG.png)
 
 
 
